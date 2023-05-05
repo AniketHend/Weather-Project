@@ -1,0 +1,11 @@
+{
+  "name": "simple-weather-website-main",
+  "version": "1.0.0",
+  "description": "![Black Minimal Motivation Quote LinkedIn Banner (2)](https://user-images.githubusercontent.com/90236635/232291203-4d6bed99-30e5-4837-96b6-98bbbef053d3.png)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
